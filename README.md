@@ -1,7 +1,7 @@
 # taxes
 Petit programme qui permet de calculer la taxe et le tip au Québec.
 
-Pour Linux seulement.
+Guide pour Linux seulement.
 # Installation
 S'assurer d'avoir `ncurses` et `git`
 
