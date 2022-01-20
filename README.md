@@ -1,5 +1,5 @@
 # taxes
-Permet de calculer la taxe et le tip au Québec.
+Petit programme qui permet de calculer la taxe et le tip au Québec.
 
 Pour Linux seulement.
 # Installation
