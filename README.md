@@ -1,8 +1,7 @@
 # taxes
 Petit programme qui permet de calculer la taxe et le tip au Québec.
 
-Guide pour Linux seulement.
-# Installation
+# Installation Linux
 S'assurer d'avoir `ncurses` et `git`
 
 Dans un Terminal:
@@ -14,6 +13,9 @@ Dans un Terminal:
 `gcc taxes.c -o taxes -lncurses`
 
 `sudo mv taxes /usr/bin/`
+
+# Windows
+wip
 
 # Utiliser le programmes
 Dans un Terminal:
